@@ -1,0 +1,4 @@
+paramiko==3.4.0
+tqdm==4.66.1
+python-dotenv==1.0.0
+gradio==4.19.2 
